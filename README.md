@@ -9,6 +9,12 @@ A modern job search and recruitment platform clone built with Next.js, TypeScrip
 
 
 ![Screenshot 2025-04-15 231141](https://github.com/user-attachments/assets/3d872b37-cc81-44f2-a839-5499c9b33a2d)
+![Screenshot 2025-04-15 231212](https://github.com/user-attachments/assets/a9ea3677-3be0-46c8-9238-78e85a59a4d7)
+![Screenshot 2025-04-15 231238](https://github.com/user-attachments/assets/71c293ec-cef6-4cf5-980b-de6015fa92b3)
+![Screenshot 2025-04-15 231319](https://github.com/user-attachments/assets/ac3c3ed5-77e1-4c5d-920a-129e4ab539ba)
+![Screenshot 2025-04-15 231357](https://github.com/user-attachments/assets/5f068e7d-f1bb-4b93-ae97-4bc058620c46)
+![Screenshot 2025-04-15 231412](https://github.com/user-attachments/assets/509cd290-d89d-4d87-b2c6-675262892669)
+
 
 
 ## Tech Stack
