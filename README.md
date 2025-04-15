@@ -7,6 +7,10 @@ A modern job search and recruitment platform clone built with Next.js, TypeScrip
 - Production URL: [https://naukri-clone-ccpmbvdw1-kunalsangas-projects.vercel.app](https://naukri-clone-ccpmbvdw1-kunalsangas-projects.vercel.app)
 - Vercel Dashboard: [https://vercel.com/kunalsangas-projects/naukri-clone/settings](https://vercel.com/kunalsangas-projects/naukri-clone/settings)
 
+
+![Screenshot 2025-04-15 231141](https://github.com/user-attachments/assets/3d872b37-cc81-44f2-a839-5499c9b33a2d)
+
+
 ## Tech Stack
 
 - **Framework**: Next.js 15
